@@ -2,7 +2,7 @@
 // The NavLink component is used to add style to the active routes.
 
 import React from "react";
-import { NavLink, Link } from "react-router-dom";
+import { NavLink, Link, useParams } from "react-router-dom";
 import styles from "../css/Header.module.css";
 
 function Header() {

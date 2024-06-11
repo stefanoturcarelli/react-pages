@@ -10,6 +10,7 @@ function NotFound() {
         the missing page. In the meantime, feel free to enjoy some virtual tea
         and biscuits while we work our magic!
       </p>
+      <img src="src\img\OIG4..jpg" alt="404 Page Not Found" />
     </section>
   );
 }
